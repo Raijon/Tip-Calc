@@ -1,10 +1,10 @@
 # Pre-work - Tipster
 
-Tipsteris a tip calculator application for iOS.
+Tipster is a tip calculator application for iOS.
 
 Submitted by: Raijon Wilson
 
-Time spent: 2 hours spent in total
+Time spent: 1 hours spent in total
 
 ## User Stories
 
@@ -26,7 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
- <   http://imgur.com/a/LGE4C    >
+ < img src = 'http://imgur.com/a/LGE4C' title='Video Walkthrough' width=''  alt='Video Walkthrough'   />
+ 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
